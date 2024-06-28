@@ -4,4 +4,4 @@ KIND
 METADATATA
 SPEC
  image: nginx
- 
+ tags: sai
