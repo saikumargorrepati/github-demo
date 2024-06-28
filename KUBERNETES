@@ -3,3 +3,5 @@ API VERSION
 KIND
 METADATATA
 SPEC
+ image: nginx
+ 
