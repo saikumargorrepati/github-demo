@@ -1,0 +1,6 @@
+# docker file to create a image
+FROM nginx
+WORKDIR PATH\SAI
+COPY 
+ENTRYPOINT
+CMD
